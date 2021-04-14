@@ -1,0 +1,82 @@
+body {
+    background-color: azure;
+    font-family: sans-serif;
+}
+
+.form {
+    width: 100%;
+    margin: auto;
+    padding-top: 40px;
+}
+
+.card {
+    width: 100%;
+    box-shadow: 1px 1px 5px #ccc;
+    background-color: white;
+    padding: 30px;
+    border-radius: 10px;
+    padding: 30px;
+}
+
+.card-top {
+    width: 100%;
+    background-color: rgb(240, 240, 240);
+    height: 120px;
+    margin: auto;
+    text-align: center;
+}
+
+.img-top {
+    padding-top: 10px;
+    height: 100px;
+    text-align: center;
+    margin: auto;
+}
+
+.card-group {
+    margin-bottom: 10px;
+}
+
+.card-group>label {
+    width: 100%;
+    color: rgb(75, 75, 75);
+    display: block;
+}
+
+.card-group>input {
+    padding: 10px 0;
+    margin-bottom: 30px;
+    width: 100%;
+    box-sizing: border-box;
+    box-shadow: none;
+    outline: none;
+    border: none;
+    border-bottom: 2px solid #000000;
+}
+
+.card-group>button {
+    background-color: #287fe2;
+    width: 100%;
+    border-radius: 5px;
+    padding: 10px;
+    color: white;
+    border: 0px;
+    outline: 0;
+}
+
+.imglogin {
+    border-radius: 50px;
+    width: 100px;
+    box-shadow: 1px 1px 5px #ccc;
+}
+
+.title {
+    color: red;
+}
+
+.select {
+    box-shadow: 1px 1px 5px #ccc;
+    border-radius: 5px;
+    outline: 0;
+    width: 100%;
+}
